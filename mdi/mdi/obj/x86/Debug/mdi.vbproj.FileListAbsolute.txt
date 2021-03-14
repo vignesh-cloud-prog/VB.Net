@@ -1,0 +1,9 @@
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\mdi\mdi\bin\Debug\mdi.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\mdi\mdi\bin\Debug\mdi.pdb
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\mdi\mdi\bin\Debug\mdi.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\mdi\mdi\obj\x86\Debug\mdi.Form1.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\mdi\mdi\obj\x86\Debug\mdi.Resources.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\mdi\mdi\obj\x86\Debug\mdi.vbproj.GenerateResource.Cache
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\mdi\mdi\obj\x86\Debug\mdi.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\mdi\mdi\obj\x86\Debug\mdi.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\mdi\mdi\obj\x86\Debug\mdi.pdb

@@ -1,0 +1,10 @@
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\obj\x86\Debug\booksOrder.Form1.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\obj\x86\Debug\booksOrder.Resources.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\obj\x86\Debug\booksOrder.vbproj.GenerateResource.Cache
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\bin\Debug\booksOrder.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\bin\Debug\booksOrder.pdb
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\bin\Debug\booksOrder.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\obj\x86\Debug\booksOrder.ordersummary.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\obj\x86\Debug\booksOrder.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\obj\x86\Debug\booksOrder.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\booksOrder\booksOrder\obj\x86\Debug\booksOrder.pdb

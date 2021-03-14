@@ -1,0 +1,9 @@
+C:\Users\vsasp\onedrive\documents\visual studio 2010\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\vsasp\onedrive\documents\visual studio 2010\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\vsasp\onedrive\documents\visual studio 2010\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.xml
+C:\Users\vsasp\onedrive\documents\visual studio 2010\Projects\Palindrome\Palindrome\obj\x86\Debug\Palindrome.Form1.resources
+C:\Users\vsasp\onedrive\documents\visual studio 2010\Projects\Palindrome\Palindrome\obj\x86\Debug\Palindrome.Resources.resources
+C:\Users\vsasp\onedrive\documents\visual studio 2010\Projects\Palindrome\Palindrome\obj\x86\Debug\Palindrome.vbproj.GenerateResource.Cache
+C:\Users\vsasp\onedrive\documents\visual studio 2010\Projects\Palindrome\Palindrome\obj\x86\Debug\Palindrome.exe
+C:\Users\vsasp\onedrive\documents\visual studio 2010\Projects\Palindrome\Palindrome\obj\x86\Debug\Palindrome.xml
+C:\Users\vsasp\onedrive\documents\visual studio 2010\Projects\Palindrome\Palindrome\obj\x86\Debug\Palindrome.pdb

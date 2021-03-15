@@ -1,0 +1,9 @@
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\Telephone\Telephone\obj\x86\Debug\Telephone.Form1.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\Telephone\Telephone\obj\x86\Debug\Telephone.Resources.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\Telephone\Telephone\obj\x86\Debug\Telephone.vbproj.GenerateResource.Cache
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\Telephone\Telephone\bin\Debug\Telephone.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\Telephone\Telephone\bin\Debug\Telephone.pdb
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\Telephone\Telephone\bin\Debug\Telephone.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\Telephone\Telephone\obj\x86\Debug\Telephone.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\Telephone\Telephone\obj\x86\Debug\Telephone.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\Telephone\Telephone\obj\x86\Debug\Telephone.pdb

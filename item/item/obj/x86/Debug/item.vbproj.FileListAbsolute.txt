@@ -1,0 +1,9 @@
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\item\item\bin\Debug\item.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\item\item\bin\Debug\item.pdb
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\item\item\bin\Debug\item.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\item\item\obj\x86\Debug\item.Form1.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\item\item\obj\x86\Debug\item.Resources.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\item\item\obj\x86\Debug\item.vbproj.GenerateResource.Cache
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\item\item\obj\x86\Debug\item.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\item\item\obj\x86\Debug\item.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\item\item\obj\x86\Debug\item.pdb

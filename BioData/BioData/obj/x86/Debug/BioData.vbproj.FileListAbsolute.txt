@@ -1,0 +1,9 @@
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\BioData\BioData\bin\Debug\BioData.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\BioData\BioData\bin\Debug\BioData.pdb
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\BioData\BioData\bin\Debug\BioData.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\BioData\BioData\obj\x86\Debug\BioData.Form1.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\BioData\BioData\obj\x86\Debug\BioData.Resources.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\BioData\BioData\obj\x86\Debug\BioData.vbproj.GenerateResource.Cache
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\BioData\BioData\obj\x86\Debug\BioData.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\BioData\BioData\obj\x86\Debug\BioData.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\BioData\BioData\obj\x86\Debug\BioData.pdb

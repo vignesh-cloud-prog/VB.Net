@@ -1,0 +1,9 @@
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\SimpleQuiz\SimpleQuiz\bin\Debug\SimpleQuiz.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\SimpleQuiz\SimpleQuiz\bin\Debug\SimpleQuiz.pdb
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\SimpleQuiz\SimpleQuiz\bin\Debug\SimpleQuiz.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\SimpleQuiz\SimpleQuiz\obj\x86\Debug\SimpleQuiz.Form1.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\SimpleQuiz\SimpleQuiz\obj\x86\Debug\SimpleQuiz.Resources.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\SimpleQuiz\SimpleQuiz\obj\x86\Debug\SimpleQuiz.vbproj.GenerateResource.Cache
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\SimpleQuiz\SimpleQuiz\obj\x86\Debug\SimpleQuiz.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\SimpleQuiz\SimpleQuiz\obj\x86\Debug\SimpleQuiz.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\SimpleQuiz\SimpleQuiz\obj\x86\Debug\SimpleQuiz.pdb

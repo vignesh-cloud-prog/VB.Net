@@ -1,0 +1,9 @@
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\picturesWithDateAndTime\picturesWithDateAndTime\bin\Debug\picturesWithDateAndTime.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\picturesWithDateAndTime\picturesWithDateAndTime\bin\Debug\picturesWithDateAndTime.pdb
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\picturesWithDateAndTime\picturesWithDateAndTime\bin\Debug\picturesWithDateAndTime.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\picturesWithDateAndTime\picturesWithDateAndTime\obj\x86\Debug\picturesWithDateAndTime.Form1.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\picturesWithDateAndTime\picturesWithDateAndTime\obj\x86\Debug\picturesWithDateAndTime.Resources.resources
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\picturesWithDateAndTime\picturesWithDateAndTime\obj\x86\Debug\picturesWithDateAndTime.vbproj.GenerateResource.Cache
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\picturesWithDateAndTime\picturesWithDateAndTime\obj\x86\Debug\picturesWithDateAndTime.exe
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\picturesWithDateAndTime\picturesWithDateAndTime\obj\x86\Debug\picturesWithDateAndTime.xml
+c:\users\vsasp\onedrive\documents\visual studio 2010\Projects\picturesWithDateAndTime\picturesWithDateAndTime\obj\x86\Debug\picturesWithDateAndTime.pdb
